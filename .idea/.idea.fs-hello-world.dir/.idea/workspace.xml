@@ -27,6 +27,7 @@
         <option value="$PROJECT_DIR$/Mesurments.fs" />
         <option value="$PROJECT_DIR$/Measurements.fsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/CartManagement.fsx" />
       </list>
     </option>
   </component>
@@ -71,7 +72,7 @@
       <updated>1608582036764</updated>
       <workItem from="1608582041829" duration="7275000" />
       <workItem from="1608643800229" duration="1674000" />
-      <workItem from="1608665250291" duration="887000" />
+      <workItem from="1608665250291" duration="3551000" />
     </task>
     <servers />
   </component>
@@ -84,25 +85,25 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="672" height="240" key="GridCell.Tab.0.bottom" timestamp="1608594655261">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="886" height="240" key="GridCell.Tab.0.bottom" timestamp="1608668956953">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="672" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608591942676" />
+    <state width="886" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608668956953" />
     <state width="672" height="240" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1608594655261" />
-    <state width="672" height="240" key="GridCell.Tab.0.center" timestamp="1608594655260">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="886" height="240" key="GridCell.Tab.0.center" timestamp="1608668956952">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="672" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608591942675" />
+    <state width="886" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608668956952" />
     <state width="672" height="240" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1608594655260" />
-    <state width="672" height="240" key="GridCell.Tab.0.left" timestamp="1608594655259">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="886" height="240" key="GridCell.Tab.0.left" timestamp="1608668956951">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="672" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608591942674" />
+    <state width="886" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608668956951" />
     <state width="672" height="240" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1608594655259" />
-    <state width="672" height="240" key="GridCell.Tab.0.right" timestamp="1608594655260">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="886" height="240" key="GridCell.Tab.0.right" timestamp="1608668956953">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="672" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608591942676" />
+    <state width="886" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608668956953" />
     <state width="672" height="240" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1608594655260" />
   </component>
 </project>

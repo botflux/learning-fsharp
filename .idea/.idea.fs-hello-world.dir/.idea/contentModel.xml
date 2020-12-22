@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="ActivePatterns.fsx" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="CartManagement.fsx" t="Include" />
       <e p="EmailAdress.fsx" t="Include" />
       <e p="Example.fsx" t="Include" />
       <e p="ExampleDates.fsx" t="Include" />

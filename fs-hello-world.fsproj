@@ -17,6 +17,7 @@
     <None Include="EmailAdress.fsx" />
     <None Include="Measurements.fsx" />
     <Content Include=".gitignore" />
+    <None Include="CartManagement.fsx" />
   </ItemGroup>
 
 </Project>
