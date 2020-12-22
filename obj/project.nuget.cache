@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rcj9sf/pHcf42c0Hl0vEIQCnrYhuscXVKwbJj/Mn5l+M/nWsATjyjzfYW+fy43nPZ26e715vDkOWdBSWk8rh2Q==",
+  "success": true,
+  "projectFilePath": "/Users/v-mendele/Documents/projects/fs-hello-world/fs-hello-world.fsproj",
+  "expectedPackageFiles": [
+    "/Users/v-mendele/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
