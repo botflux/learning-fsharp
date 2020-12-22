@@ -6,6 +6,7 @@
       <e p="ActivePatterns.fsx" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="CartManagement.fsx" t="Include" />
+      <e p="DownloadWebPages.fsx" t="Include" />
       <e p="EmailAdress.fsx" t="Include" />
       <e p="Example.fsx" t="Include" />
       <e p="ExampleDates.fsx" t="Include" />
@@ -13,6 +14,7 @@
       <e p="fs-hello-world.fsproj" t="IncludeRecursive" />
       <e p="good.txt" t="Include" />
       <e p="Measurements.fsx" t="Include" />
+      <e p="NotificationManagement.fsx" t="Include" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.fs" t="Include" />

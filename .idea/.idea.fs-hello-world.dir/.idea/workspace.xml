@@ -28,6 +28,8 @@
         <option value="$PROJECT_DIR$/Measurements.fsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/CartManagement.fsx" />
+        <option value="$PROJECT_DIR$/DownloadWebPages.fsx" />
+        <option value="$PROJECT_DIR$/NotificationManagement.fsx" />
       </list>
     </option>
   </component>
@@ -72,7 +74,7 @@
       <updated>1608582036764</updated>
       <workItem from="1608582041829" duration="7275000" />
       <workItem from="1608643800229" duration="1674000" />
-      <workItem from="1608665250291" duration="3551000" />
+      <workItem from="1608665250291" duration="7798000" />
     </task>
     <servers />
   </component>

@@ -18,6 +18,8 @@
     <None Include="Measurements.fsx" />
     <Content Include=".gitignore" />
     <None Include="CartManagement.fsx" />
+    <None Include="DownloadWebPages.fsx" />
+    <None Include="NotificationManagement.fsx" />
   </ItemGroup>
 
 </Project>
