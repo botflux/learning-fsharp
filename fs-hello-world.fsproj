@@ -16,6 +16,7 @@
     <Content Include="good.txt" />
     <None Include="EmailAdress.fsx" />
     <None Include="Measurements.fsx" />
+    <Content Include=".gitignore" />
   </ItemGroup>
 
 </Project>

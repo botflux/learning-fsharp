@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/EmailAdress.fsx" />
         <option value="$PROJECT_DIR$/Mesurments.fs" />
         <option value="$PROJECT_DIR$/Measurements.fsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -70,7 +71,7 @@
       <updated>1608582036764</updated>
       <workItem from="1608582041829" duration="7275000" />
       <workItem from="1608643800229" duration="1674000" />
-      <workItem from="1608665250291" duration="553000" />
+      <workItem from="1608665250291" duration="887000" />
     </task>
     <servers />
   </component>
